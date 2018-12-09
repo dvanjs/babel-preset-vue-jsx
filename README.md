@@ -1,4 +1,4 @@
-# @dvan/babel-preset-jsx
+# @dvan/babel-preset-vue-jsx
 
 This is a temporary package for support jsx via babel preset
 
